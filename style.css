@@ -1,0 +1,29 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+#heading
+{
+    font-size:25px;
+    color:white;
+    margin-top: 10px;
+}
+.a
+{
+    background-color:white;
+    border-radius: 10px;
+    color: black;
+    font-size:29px;
+    padding:5px;
+}
+.copy-right-footer
+{
+    bottom:0;
+    line-height: 3;
+    width: 100%;
+    color: white;
+    font-size: 15px;
+    position:fixed;
+    
+}

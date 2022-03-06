@@ -1,0 +1,27 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+    font-size:25px;
+    font-family: 'Times New Roman', Times, serif;
+    width:100%;
+    margin:0px;
+}
+.copy-right-footer
+{
+    bottom:0;
+    line-height: 3;
+    width: 100%;
+    font-size: 20px;
+    position: fixed;
+    color: maroon;
+}
+canvas
+{
+    border-radius: 10;
+    box-shadow: 5px 5px 5px white;
+    margin-top:70px;
+}
